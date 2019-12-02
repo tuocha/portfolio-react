@@ -1,0 +1,34 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #01579b;
+    font-size: 84pt;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.card {
+    float: left;
+    margin-right: 20%;
+    width: 30%;
+    left: 10%;
+    background-color: #ede7f6;
+}
+
+.project-load {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.card-action {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.project-blurb {
+    font-size: 24pt;
+    color: black;
+}
+
+.link-text {
+    color: black;
+}

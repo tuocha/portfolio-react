@@ -1,0 +1,22 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #01579b;
+    font-size: 76pt;
+    font-weight: bold;
+}
+
+.body-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;     
+}
+
+.flow-text {
+    color: #37474f;
+}
+
+#profile-pic {
+    height: 17vh;
+    width: 15vh;
+    border-radius: 50%;
+    margin-top: -3%;
+}
